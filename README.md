@@ -2,11 +2,11 @@
 
 ### I'm Xialonggui
 
-- An outspoken Jvav programmer
-- 🌱 Currently working in Shenzhen, China.
+- A Jvav programmer who is all talk(口嗨程序员)
+- 🌱 Currently working in GuangZhou, China.
 - 💬 Ask me about Java, Spring, Vue and my projects on [1023876294@qq.com](mailto:1023876294@qq.com)
 - ⭐ You may like [roudoukou](https://github.com/roudoukou/roudoukou.github.io)
-- ⚡ Fun fact: Likes coding 💻
+- ⚡ Fun fact: Likes coding 💻, City Walk 🚶‍♂️🏙️, City Ride 🚴‍♀️🌆
 
 ### 🛠 技术栈 | Tech Stack
 
